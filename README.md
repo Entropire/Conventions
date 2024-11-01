@@ -1,4 +1,12 @@
-# Conventions
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1>Conventions</h1>
+    </summary>
+  </ul>
+</div>
+
+---
 
 ## Description
 This repository contains the conventions I follow in my projects. These guidelines aim to ensure consistency, readability, and maintainability across the codebase. While these conventions are not definitive or universally recognized as the best practices, they reflect my personal approach.
