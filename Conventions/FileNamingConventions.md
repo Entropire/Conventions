@@ -1,4 +1,15 @@
-# File naming conventions
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1>File naming conventions</h1>
+    </summary>
+  </ul>
+</div>
+
+---
+
+## Description
+In this document you wil find the naming convention of different types of files. There are 2 part in this document. Universal conventions these are the naming conventions that apply to every file type. Category conventions these are the naming conventions for that specific file Category.
 
 ## Universal Conventions
 
@@ -36,7 +47,7 @@ Here you can find the conventions associated with all categories.
 
 7. **Abbreviations are not allowed**, except if they are well known.
    
-   *Example: Use "VelocityModifier" instead of "vm"*    
+   *Example: Use "VelocityModifier" instead of "vm".*    
 
 ## Category Conventions
 
@@ -61,12 +72,13 @@ These files fall under this category:
 - `.md`
 
 ### Conventions
+
 1. **All names must be in PascalCase.**  
    *Example: Use "PlayerMover" instead of "playermover".*
 
-
 ### Examples
-
+   PlayerData.json
+   CaseTypes.md
 
 
 ## Document Files
@@ -79,8 +91,17 @@ These files fall under this category:
 
 ### Conventions
 
-### Examples
+1. **All names must be snake_case.**
+   
+   *Example: use "user_information" instead of "userInformation".*
 
+
+2. **Number are allowed**
+   
+   *Example: u can use "1" instead of "one".*
+
+### Examples
+   - 
 
 
 ## Image Files

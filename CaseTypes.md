@@ -1,4 +1,17 @@
-# Case types
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1>Case types</h1>
+    </summary>
+  </ul>
+</div>
+
+---
+
+## Description
+Here you wil find all the different case types that you can use.
+
+---
 
 1. PascalCase
    - Description: Each word starts with a capital letter and there are no spaces or underscores.
