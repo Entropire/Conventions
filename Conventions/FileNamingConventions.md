@@ -1,7 +1,5 @@
 # File naming conventions
 
----
-
 ## Universal Conventions
 
 Here you can find the conventions associated with all categories.
@@ -35,8 +33,6 @@ Here you can find the conventions associated with all categories.
 
    *Example: Use "ProgramSettings" instead of "Program Settings".*
 
----
-
 ## Category Conventions
 
 Here you can find the conventions associated with each category.
@@ -51,8 +47,6 @@ Here you can find the conventions associated with each category.
 - [Database](#database-files)
 - [Script/Code](#script--code-files)
 
----
-
 ## Text Files
 
 These files fall under this category:
@@ -60,8 +54,6 @@ These files fall under this category:
 - `.txt`
 - `.json`
 - `.md`
-
----
 
 ## Document Files
 
@@ -71,8 +63,6 @@ These files fall under this category:
 - `.pdf`
 - `.xlsx`
 
----
-
 ## Image Files
 
 These files fall under this category:
@@ -80,8 +70,6 @@ These files fall under this category:
 - `.png`
 - `.jpeg`
 - `.gif`
-
----
 
 ## Audio Files
 
@@ -91,8 +79,6 @@ These files fall under this category:
 - `.wav`
 - `.aiff`
 
----
-
 ## Video Files
 
 These files fall under this category:
@@ -101,8 +87,6 @@ These files fall under this category:
 - `.mov`
 - `.mkv`
 
----
-
 ## Database Files
 
 These files fall under this category:
@@ -110,8 +94,6 @@ These files fall under this category:
 - `.sql`
 - `.sqlite`
 - `.db`
-
----
 
 ## Script / Code Files
 
