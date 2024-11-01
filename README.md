@@ -17,11 +17,14 @@ This repository contains the conventions I follow in my projects. These guidelin
 - [File Naming Conventions](./Conventions/FileNamingConventions.md)
 - [Folder Structure Conventions](./Conventions/FolderStructureConventions.md)
 - [Code Formatting Conventions](./Conventions/CodeFormattingConventions.md)
+- [Git flow conventions](./Conventions/GitFlowConventions.md)
+- [Trello conventions](./Conventions/TrelloConventions.md)
 
 ## Contribution
 
 If you would like to contribute to this repository and help improve the conventions, your input is very welcome!
-These are the ways you can contribute to this repo.
+
+These are the ways you can contribute to this repo:
 
 1. Suggest your way of doing certain things differently.
    - Please create a new issue outlining what you propose, how you suggest implementing it, and the reasoning behind your approach.
