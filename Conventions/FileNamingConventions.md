@@ -33,6 +33,11 @@ Here you can find the conventions associated with all categories.
 
    *Example: Use "ProgramSettings" instead of "Program Settings".*
 
+
+7. **Abbreviations are not allowed**, except if they are well known.
+   
+   *Example: Use "VelocityModifier" instead of "vm"*    
+
 ## Category Conventions
 
 Here you can find the conventions associated with each category.
@@ -55,6 +60,15 @@ These files fall under this category:
 - `.json`
 - `.md`
 
+### Conventions
+1. **All names must be in PascalCase.**  
+   *Example: Use "PlayerMover" instead of "playermover".*
+
+
+### Examples
+
+
+
 ## Document Files
 
 These files fall under this category:
@@ -62,6 +76,12 @@ These files fall under this category:
 - `.doc`
 - `.pdf`
 - `.xlsx`
+
+### Conventions
+
+### Examples
+
+
 
 ## Image Files
 
@@ -71,6 +91,12 @@ These files fall under this category:
 - `.jpeg`
 - `.gif`
 
+### Conventions
+
+### Examples
+
+
+
 ## Audio Files
 
 These files fall under this category:
@@ -78,6 +104,12 @@ These files fall under this category:
 - `.mp3`
 - `.wav`
 - `.aiff`
+
+### Conventions
+
+### Examples
+
+
 
 ## Video Files
 
@@ -87,6 +119,12 @@ These files fall under this category:
 - `.mov`
 - `.mkv`
 
+### Conventions
+
+### Examples
+
+
+
 ## Database Files
 
 These files fall under this category:
@@ -94,6 +132,12 @@ These files fall under this category:
 - `.sql`
 - `.sqlite`
 - `.db`
+
+### Conventions
+
+### Examples
+
+
 
 ## Script / Code Files
 
