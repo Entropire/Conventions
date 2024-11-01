@@ -9,5 +9,5 @@
 ---
 
 ## Description
-In this document you will find all the naming conventions for code.
+In this document you will find all the farmatting conventions for code.
 
