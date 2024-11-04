@@ -9,7 +9,7 @@
 ---
 
 ## Description
-In this document you will find all the information for gitflow.
+n/a.
 
 Master: this branch is for finished products and only finished products.
 
